@@ -1,0 +1,2 @@
+# reblibality-testing-of-scientific-calculator-calculator.net-using-selenium
+Selenium helps check if scientific calculators, like the one on calculator.net, work well. We do this by making automated tests that act like users: typing in math problems and checking if the answers are right. We run these tests in different situations, testing even the tricky cases. 
